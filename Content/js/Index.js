@@ -1,14 +1,14 @@
 $(document).ready(function () {
     var modal = document.getElementById('myModal');
 
-    var player1Name = prompt("Please enter player 1 name: ", "Dhruv Savaj");
+    var player1Name = prompt("Please enter player 1 name: ");
     if (player1Name === null || player1Name === "") {
-        player1Name = "Player 1"
+        player1Name = "Mihir Akoliya"
     }
 
-    var player2Name = prompt("Please enter player 2 name:", "Mihir Akoliya");
+    var player2Name = prompt("Please enter player 2 name:");
     if (player2Name === null || player2Name === "") {
-        player2Name = "Player 2";
+        player2Name = "Mihir Akoliya";
     }
 
     var grid = new Array(3);
