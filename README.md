@@ -8,4 +8,4 @@ This is en example of how we can create tic tac toe game with javaScript.
 
 You can add both player name
 
-End that's it, enjoy the game.
+And that's it, enjoy the game.
