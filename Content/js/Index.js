@@ -3,7 +3,7 @@ $(document).ready(function () {
 
     var player1Name = prompt("Please enter player 1 name: ");
     if (player1Name === null || player1Name === "") {
-        player1Name = "Mihir Akoliya"
+        player1Name = "Dhruv Savaj"
     }
 
     var player2Name = prompt("Please enter player 2 name:");
